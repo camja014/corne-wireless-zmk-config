@@ -54,7 +54,7 @@
 &kp TAB     &kp Q  &kp W         &kp E             &kp R            &kp T         &kp Y    &kp U             &kp I              &kp O         &kp P     &kp EQUAL
 &kp ESCAPE  &kp A  &hml S LCTRL  &hml D LEFT_META  &hml F LEFT_ALT  &kp G         &kp H    &hmr J RIGHT_ALT  &hmr K RIGHT_META  &hmr L RCTRL  &kp SEMI  &kp SQT
 &kp LSHFT   &kp Z  &kp X         &kp C             &kp V            &kp B         &kp N    &kp M             &kp COMMA          &kp DOT       &kp FSLH  &kp RIGHT_SHIFT
-                                 &kp LGUI          &kp BACKSPACE    &kp DELETE    &kp RET  &kp SPACE         &kp RALT
+                                 &mo 1             &kp BACKSPACE    &kp DELETE    &kp RET  &kp SPACE         &mo 2
             >;
         };
 
